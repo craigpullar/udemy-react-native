@@ -1,8 +1,6 @@
 import React, { Component } from "react";
-import { StyleSheet, Text, View, Button } from "react-native";
-import { TextInput } from "react-native-gesture-handler";
-import ListItem from "./src/components/list-item";
-import InputContainer from "./src/components/input-container";
+import { StyleSheet, View } from "react-native";
+import PlaceInput from "./src/components/input-container";
 import PlaceNameList from "./src/components/place-name-list";
 
 export default class App extends Component {
@@ -21,7 +19,7 @@ export default class App extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <InputContainer handleSubmit={this.onPlaceSubmit} />
+        <PlaceInput handleSubmit={this.onPlaceSubmit} />
         <PlaceNameList places={this.state.places} />
       </View>
     );

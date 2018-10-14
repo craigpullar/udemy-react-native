@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 import { View, Button, TextInput } from "react-native";
 import styles from "./styles";
 
-class InputContainer extends Component {
+class PlaceInput extends Component {
   static propTypes = {
     handleSubmit: PropTypes.func.isRequired
   };
@@ -49,4 +49,4 @@ class InputContainer extends Component {
   }
 }
 
-export default InputContainer;
+export default PlaceInput;
