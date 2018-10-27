@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { Provider } from "react-redux";
+import { AppRegistry } from "react-native";
 import configureStore from "./src/store/configureStore";
 import Home from "./src/containers/home";
 
@@ -13,3 +14,5 @@ export default class App extends Component {
     );
   }
 }
+
+AppRegistry.registerComponent("main", () => App);
