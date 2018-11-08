@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/home/craig/development/udemy/react-native/rn-course/android/app/src/main/assets"/><source path="/home/craig/development/udemy/react-native/rn-course/android/app/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/home/craig/development/udemy/react-native/rn-course/android/app/src/release/assets"/></dataSet></merger>
