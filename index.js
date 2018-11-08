@@ -15,4 +15,4 @@ export default class App extends Component {
   }
 }
 
-AppRegistry.registerComponent("main", () => App);
+AppRegistry.registerComponent("reactNative2", () => App);

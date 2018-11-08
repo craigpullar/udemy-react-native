@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.56.0] /home/craig/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/54acd7275a389b0c02617b8418d5ed86/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/craig/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/57c5b0c1ddebbd419e4838daf1ba4d96/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/craig/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/a3465862666eb873d5fb02bd9475bee1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/craig/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/45a271733b6a4870a6a0ffdae71fd8b3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/craig/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c2d2ef77b0092b8169acfc4ddfdd6b50/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/craig/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d8688e9429ef9fa527c0fd8967f74dbf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/craig/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/ac6a29141932e818a7c7f8c536d86a2d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/craig/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a9c47ee9a70c256bbf81348ca77239d6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/craig/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/ce94ebf39a579a06895e73370aa7fdd8/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.9.0] /home/craig/.gradle/caches/transforms-1/files-1.1/fresco-1.9.0.aar/4c104e1460abdbc276e608eb63e3b66e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /home/craig/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.9.0.aar/87719e9ee015d3afe0f9efe305334db5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.9.0] /home/craig/.gradle/caches/transforms-1/files-1.1/drawee-1.9.0.aar/88e69aac3394989f187909ca3116076b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /home/craig/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.9.0.aar/e4ab2757d4722e36c5b2b56fc8adf6a4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /home/craig/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.9.0.aar/4adaa2b90d502c230d8020d68966cdb8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/craig/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/df7c24268f74f4ede01fabd1527ac098/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /home/craig/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/daef1316835b92b2094624ac778d5fd6/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /home/craig/.gradle/caches/transforms-1/files-1.1/fbcore-1.9.0.aar/df7cb5e02d5cea1a98d5ae5c67a6f77d/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/craig/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/6f38e51740bf2e45bc7abdf27875f2cc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/craig/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/990193455ac2e9119bd37476e472dc32/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/craig/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9d4a9a3f1a013f1e13a0cc1a16666975/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/craig/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3e9f2f77f70c939a7cecace0da0b06ab/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:2:5-31
+		INJECTED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.56.0] /home/craig/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/54acd7275a389b0c02617b8418d5ed86/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.56.0] /home/craig/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/54acd7275a389b0c02617b8418d5ed86/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.56.0] /home/craig/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/54acd7275a389b0c02617b8418d5ed86/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.56.0] /home/craig/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/54acd7275a389b0c02617b8418d5ed86/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/craig/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/df7c24268f74f4ede01fabd1527ac098/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/craig/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/df7c24268f74f4ede01fabd1527ac098/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/craig/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/daef1316835b92b2094624ac778d5fd6/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/craig/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/daef1316835b92b2094624ac778d5fd6/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.reactnative2.MainActivity
+ADDED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.56.0] /home/craig/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/54acd7275a389b0c02617b8418d5ed86/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.56.0] /home/craig/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/54acd7275a389b0c02617b8418d5ed86/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/craig/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/57c5b0c1ddebbd419e4838daf1ba4d96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/craig/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/57c5b0c1ddebbd419e4838daf1ba4d96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/craig/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/a3465862666eb873d5fb02bd9475bee1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/craig/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/a3465862666eb873d5fb02bd9475bee1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/craig/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/45a271733b6a4870a6a0ffdae71fd8b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/craig/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/45a271733b6a4870a6a0ffdae71fd8b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/craig/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c2d2ef77b0092b8169acfc4ddfdd6b50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/craig/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c2d2ef77b0092b8169acfc4ddfdd6b50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/craig/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d8688e9429ef9fa527c0fd8967f74dbf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/craig/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d8688e9429ef9fa527c0fd8967f74dbf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/craig/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/ac6a29141932e818a7c7f8c536d86a2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/craig/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/ac6a29141932e818a7c7f8c536d86a2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/craig/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a9c47ee9a70c256bbf81348ca77239d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/craig/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a9c47ee9a70c256bbf81348ca77239d6/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/craig/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/ce94ebf39a579a06895e73370aa7fdd8/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/craig/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/ce94ebf39a579a06895e73370aa7fdd8/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /home/craig/.gradle/caches/transforms-1/files-1.1/fresco-1.9.0.aar/4c104e1460abdbc276e608eb63e3b66e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /home/craig/.gradle/caches/transforms-1/files-1.1/fresco-1.9.0.aar/4c104e1460abdbc276e608eb63e3b66e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /home/craig/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.9.0.aar/87719e9ee015d3afe0f9efe305334db5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /home/craig/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.9.0.aar/87719e9ee015d3afe0f9efe305334db5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /home/craig/.gradle/caches/transforms-1/files-1.1/drawee-1.9.0.aar/88e69aac3394989f187909ca3116076b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /home/craig/.gradle/caches/transforms-1/files-1.1/drawee-1.9.0.aar/88e69aac3394989f187909ca3116076b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /home/craig/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.9.0.aar/e4ab2757d4722e36c5b2b56fc8adf6a4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /home/craig/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.9.0.aar/e4ab2757d4722e36c5b2b56fc8adf6a4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /home/craig/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.9.0.aar/4adaa2b90d502c230d8020d68966cdb8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /home/craig/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.9.0.aar/4adaa2b90d502c230d8020d68966cdb8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/craig/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/df7c24268f74f4ede01fabd1527ac098/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/craig/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/df7c24268f74f4ede01fabd1527ac098/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /home/craig/.gradle/caches/transforms-1/files-1.1/fbcore-1.9.0.aar/df7cb5e02d5cea1a98d5ae5c67a6f77d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /home/craig/.gradle/caches/transforms-1/files-1.1/fbcore-1.9.0.aar/df7cb5e02d5cea1a98d5ae5c67a6f77d/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/craig/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/6f38e51740bf2e45bc7abdf27875f2cc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/craig/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/6f38e51740bf2e45bc7abdf27875f2cc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/craig/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/990193455ac2e9119bd37476e472dc32/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/craig/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/990193455ac2e9119bd37476e472dc32/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/craig/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9d4a9a3f1a013f1e13a0cc1a16666975/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/craig/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9d4a9a3f1a013f1e13a0cc1a16666975/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/craig/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3e9f2f77f70c939a7cecace0da0b06ab/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/craig/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3e9f2f77f70c939a7cecace0da0b06ab/AndroidManifest.xml:20:5-44
+INJECTED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
