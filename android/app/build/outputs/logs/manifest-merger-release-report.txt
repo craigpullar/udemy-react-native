@@ -69,7 +69,7 @@ MERGED from [org.webkit:android-jsc:r174650] /home/craig/.gradle/caches/transfor
 		ADDED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:12:7-38
 	android:name
 		ADDED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:8:7-38
-activity#com.reactnative2.MainActivity
+activity#com.main.MainActivity
 ADDED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:13:7-22:18
 	android:label
 		ADDED from /home/craig/development/udemy/react-native/rn-course/android/app/src/main/AndroidManifest.xml:15:9-41

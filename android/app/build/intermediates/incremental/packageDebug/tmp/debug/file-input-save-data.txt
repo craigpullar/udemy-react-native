@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Nov 07 20:12:29 EST 2018
+#Wed Nov 07 20:23:32 EST 2018
 17.baseType=DIRECTORY
 4.path=lib/x86/libfb.so
 25.base=/home/craig/development/udemy/react-native/rn-course/android/app/build/intermediates/transforms/mergeJniLibs/debug/0

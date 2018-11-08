@@ -1,4 +1,4 @@
-package com.reactnative2;
+package com.main;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
      */
     @Override
     protected String getMainComponentName() {
-        return "reactNative2";
+        return "main";
     }
 }
