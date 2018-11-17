@@ -13,6 +13,9 @@ const styles = StyleSheet.create({
     textAlign: "center",
     fontSize: 20,
     padding: 10
+  },
+  deleteButton: {
+    alignItems: "center"
   }
 });
 

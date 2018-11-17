@@ -1,6 +1,14 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { Modal, View, Image, Text, Button } from "react-native";
+import {
+  Modal,
+  View,
+  Image,
+  Text,
+  Button,
+  TouchableOpacity
+} from "react-native";
+import Icon from "react-native-vector-icons/Ionicons";
 import styles from "./styles";
 
 const PlaceDetails = ({ selectedPlace, onItemDeleted, onModalClose }) => (
@@ -13,7 +21,11 @@ const PlaceDetails = ({ selectedPlace, onItemDeleted, onModalClose }) => (
       <Image source={selectedPlace.image} style={styles.placeImage} />
       <Text style={styles.placeName}>{selectedPlace.name}</Text>
       <View>
-        <Button title="Delete" color="red" onPress={onItemDeleted} />
+        <TouchableOpacity onPress={onItemDeleted}>
+          <View style={styles.deleteButton}>
+            <Icon size={30} name="ios-trash" color="red" />
+          </View>
+        </TouchableOpacity>
         <Button title="Close" onPress={onModalClose} />
       </View>
     </View>
